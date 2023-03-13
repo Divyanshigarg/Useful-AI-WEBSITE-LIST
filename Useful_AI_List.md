@@ -132,3 +132,9 @@
 | Free audio enhancer          | https://podcast.adobe.com/enhance                            |
 | Chef GPT                     | https://www.chefgpt.xyz/                                     |
 | My Character                 | https://mycharacter.ai/                                      |
+| QuillBot                     | https://quillbot.com/                                        |
+| D-id                         | https://www.d-id.com/                                        |
+| Soundful                     | https://soundful.com/                                        |
+| Supermeme AI                 | https://www.supermeme.ai/                                    |
+| Mightygpt                    | https://www.mightygpt.com/                                   |
+| Replika                      | https://replika.com/                                         |
