@@ -135,5 +135,8 @@
 | Free audio enhancer          | https://podcast.adobe.com/enhance                            |
 | Chef GPT                     | https://www.chefgpt.xyz/                                     |
 | My Character                 | https://mycharacter.ai/                                      |
+| Mid Journey AI Art           | https://www.midjourney.com/                                  |
+| Adobe Podcast                | https://podcast.adobe.com/                                   |
+| Nvidia Broadcast             | https://www.nvidia.com/                                      |
 | BlueWillow                   | https://www.bluewillow.ai/                                   |
-| Midjourney 		       |  https://midjourney.com/                                     |
+| Midjourney 		               |  https://midjourney.com/                                     |
