@@ -135,3 +135,5 @@
 | Free audio enhancer          | https://podcast.adobe.com/enhance                            |
 | Chef GPT                     | https://www.chefgpt.xyz/                                     |
 | My Character                 | https://mycharacter.ai/                                      |
+| BlueWillow                   | https://www.bluewillow.ai/                                   |
+| Midjourney 		       |  https://midjourney.com/                                     |
