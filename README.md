@@ -137,3 +137,4 @@
 | My Character                 | https://mycharacter.ai/                                      |
 | BlueWillow                   | https://www.bluewillow.ai/                                   |
 | Midjourney 		       |  https://midjourney.com/                                     |
+| Meta AI Sketch 		       |  [MetaAIAnimated](https://sketch.metademolab.com/)               |
