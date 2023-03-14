@@ -140,3 +140,8 @@
 | Nvidia Broadcast             | https://www.nvidia.com/                                      |
 | BlueWillow                   | https://www.bluewillow.ai/                                   |
 | Midjourney 		               |  https://midjourney.com/                                     |
+| Futurepedia                  | https://www.futurepedia.io/                                  |
+| Fliki                        | https://fliki.ai/                                            |
+| MarketingBlocks AI           | https://marketingblocks.ai/ultimate/                         |
+| Stable Diffusion             | https://stability.ai/                                        |
+| Adcreative.ai 		           | https://www.adcreative.ai/                                   |
