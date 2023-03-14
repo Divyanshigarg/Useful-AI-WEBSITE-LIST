@@ -139,3 +139,4 @@
 | Mightygpt                    | https://www.mightygpt.com/                                   |
 | Replika                      | https://replika.com/                                         |
 | Fakeyou                      | https://fakeyou.com/                                         |
+| Leonardo                     | https://leonardo.ai/                                         |
