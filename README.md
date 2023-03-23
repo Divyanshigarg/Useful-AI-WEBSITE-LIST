@@ -145,3 +145,11 @@
 | MarketingBlocks AI           | https://marketingblocks.ai/ultimate/                         |
 | Stable Diffusion             | https://stability.ai/                                        |
 | Adcreative.ai 		           | https://www.adcreative.ai/                                   |
+| tl;dv                        | https://tldv.io/                                             |
+| Galileo AI                   | https://www.usegalileo.ai/                                   |
+| Whimsical AI                 | https://whimsical.com/                                       |
+| Bardeen AI                   | https://www.bardeen.ai/                                      |
+| Pebblely                     | https://pebblely.com/                                        |
+| Voxwave AI                   | https://www.voxwaveai.com/                                   |
+| Taplio                       | https://taplio.com/                                          |
+| TOME                         | https://beta.tome.app/                                       |
