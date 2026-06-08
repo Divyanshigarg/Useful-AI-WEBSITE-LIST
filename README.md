@@ -153,3 +153,4 @@
 | Voxwave AI                   | https://www.voxwaveai.com/                                   |
 | Taplio                       | https://taplio.com/                                          |
 | TOME                         | https://beta.tome.app/                                       |
+| Rezly AI                     | https://rezly.ai/                                            |
