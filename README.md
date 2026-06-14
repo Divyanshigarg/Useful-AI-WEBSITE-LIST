@@ -3,6 +3,7 @@
 
 | Name                         | URL                                                          |
 | ---------------------------- | ------------------------------------------------------------ |
+| PromptToMars                 | https://promptomars.com                                      |
 | Syllaby                      | https://syllaby.io/                                          |
 | Copy AI                      | https://bit.ly/COPYAITOOL                                    |
 | Ranked AI                    | https://bit.ly/RANKEDAI                                      |
