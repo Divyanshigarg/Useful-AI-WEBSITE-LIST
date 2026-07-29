@@ -13,3 +13,4 @@
 | ChipBot                      | https://bit.ly/CHIPBOT                                       |
 | WriteSonic                   | https://bit.ly/WRITESONICAPP                                 |
 | AIMiracle MAG                | https://aimiracle.ai                                         |
+| GPTGeminiGrok.AI             | https://trygrokai.asia/                                      |
