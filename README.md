@@ -13,3 +13,4 @@
 | ChipBot                      | https://bit.ly/CHIPBOT                                       |
 | WriteSonic                   | https://bit.ly/WRITESONICAPP                                 |
 | AIMiracle MAG                | https://aimiracle.ai                                         |
+| GPT Image 2                  | https://gptimage2.asia/                                      |
