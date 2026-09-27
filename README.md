@@ -4,6 +4,7 @@
 | Name                         | URL                                                          |
 | ---------------------------- | ------------------------------------------------------------ |
 | PromptToMars                 | https://promptomars.com                                      |
+| kdpbook.io                   | https://kdpbook.io                                           |
 | Syllaby                      | https://syllaby.io/                                          |
 | Copy AI                      | https://bit.ly/COPYAITOOL                                    |
 | Ranked AI                    | https://bit.ly/RANKEDAI                                      |
